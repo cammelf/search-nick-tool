@@ -118,7 +118,7 @@ def print_banner():
 ╚═╗║ ║╠═╣║║║ ║║  ╚═╗║╣  ║ ║╣ ╠╦╝ ║ 
 ╚═╝╚═╝╩ ╩╝╚╝═╩╝  ╚═╝╚═╝ ╩ ╚═╝╩╚═ ╩ 
 {Style.RESET_ALL}
-{Fore.YELLOW}Поиск по нику
+{Fore.YELLOW}Поиск по нику -by @cammelf
 150+ платформ | Только реальные аккаунты{Style.RESET_ALL}
 """)
 
